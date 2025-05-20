@@ -48,6 +48,13 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": null,
+					"Name": null,
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": null
 				}
 			]
 		},
@@ -55,14 +62,25 @@
 			"Category": "はじめてにおすすめ",
 			"Worlds": [
 				{
-					"ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
-					"Name": "日本語話者向け集会場「FUJIYAMA」JP",
-					"RecommendedCapacity": 30,
-					"Capacity": 40,
-					"Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X（旧Twitter）：＠JP_Fujiyama",
+					"ID": "wrld_6bd29008-56c5-48ed-b05b-9706af070323",
+					"Name": "寝る子は育つよV睡で",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "ベットで寝ているとアバターサイズが徐々に大きくなります（約3時間で最大）。朝起きる頃には․․․",
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d8b48301-f025-48c9-9105-a2c84e08faa0",
+					"Name": "Charlotte's Sunflower Island~ひまわり咲く癒しの港町",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "ひまわりが一年中咲き誇る常夏の港町。涼しい海風に乗って、空飛ぶクジラが歌っているよ。波の上の電車、青空カフェ、灯台。アイスでも食べながら町を歩こう。明日もきっと、幸せな日。Many sunflowers are blooming in the harbor town․ Whales are singing in the sea breeze as they fly through the sky․",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
