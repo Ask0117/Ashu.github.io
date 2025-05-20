@@ -1,0 +1,55 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "お気に入り",
+			"Worlds": [
+				{
+					"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+					"Name": "A Simple Fishing World",
+					"RecommendedCapacity": 28,
+					"Capacity": 80,
+					"Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v27 - Spring is hereǃ New items in the seasonal shopǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_50a4de63-927a-4d7e-b322-13d715176ef1",
+					"Name": "Elite's RNG Land",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Reach for the stars as you put your luck to the ultimate test․ Roll for Auras of various chances and display your luckiness to your friendsǃ World is currently in active development․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a828f451-7cf5-44fc-ace9-f74ddeb13761",
+					"Name": "わいくての家",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d8b48301-f025-48c9-9105-a2c84e08faa0",
+					"Name": "Charlotte's Sunflower Island~ひまわり咲く癒しの港町",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "ひまわりが一年中咲き誇る常夏の港町。涼しい海風に乗って、空飛ぶクジラが歌っているよ。波の上の電車、青空カフェ、灯台。アイスでも食べながら町を歩こう。明日もきっと、幸せな日。Many sunflowers are blooming in the harbor town․ Whales are singing in the sea breeze as they fly through the sky․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		}
+	]
+}
